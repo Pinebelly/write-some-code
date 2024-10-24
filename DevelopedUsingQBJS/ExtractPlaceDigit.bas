@@ -1,6 +1,6 @@
 ' Oct2024 Jawz-77 ExtractPlaceDigit.bas
 ' extracts a digit from the desired place value of a number
-' written using github/boxgaming/QBJS
+' written using github/boxgaming/qbjs
 ' Note: if placeValue is set above or below the wholeNumber then answer is zero.
 cls: randomize timer
 
