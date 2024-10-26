@@ -28,7 +28,7 @@ print "The place value to extract the digit is: "; placeValue
 print
 print "The extracted digit corresponding to the place value is: ";answer
 
-function ExtractPVDigit (dim wholeNumber, dim placeValue)
+function ExtractPVDigit (wholeNumber, placeValue)
   'process wholeNumber and extract desired digit corresponding to placeValue
   '  1. adds in a correction factor to compensate for javascript precision
   '  2. formula moves the decimal point above the desired place value
